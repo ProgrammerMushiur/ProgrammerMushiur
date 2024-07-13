@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Programmer Bijoy</h1>
+<h1 align="center">Hi 👋, I'm Programmer Mushiur</h1>
 <h3 align="center">A web developer from Bangladash</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infobijoy&label=Profile%20views&color=0e75b6&style=flat" alt="infobijoy" /> </p>
