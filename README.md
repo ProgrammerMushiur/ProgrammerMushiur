@@ -11,17 +11,17 @@
 
 - 🌱 I’m currently learning **Paython**
 
-- 🤝 I’m looking for help with [Web Application](https://bijoy.pro/)
+- 🤝 I’m looking for help with [Web Application]
 
-- 👨‍💻 All of my projects are available at [https://bijoy.pro](https://bijoy.pro)
+- 👨‍💻 All of my projects are available at 
 
-- 📝 I regularly write articles on [https://dev.to/infobijoy](https://dev.to/infobijoy)
+- 📝 I regularly write articles on 
 
 - 💬 Ask me about **React, NextJS, Redux, Express, NestJS, PHP, MySql, MongoDB, Docker and AWS.**
 
-- 📫 How to reach me **infobijoychandradas@gmail.com**
+- 📫 How to reach me **mdmushiurrahman.jk@gmail.com**
 
-- 📄 Know about my experiences [https://bijoy.pro/](https://bijoy.pro/)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **There is no problem if you eat less than twice a day for coding.**
 
